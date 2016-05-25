@@ -1,0 +1,22 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+	margin: 40px auto;
+	font-family: 'Lato', Helvetica;
+}
+
+
+.graph {
+	height: 500px;
+	width: 100%;
+	background-color: #d3d3d3;
+	margin-bottom: 3em;
+}
+
+text {
+	font-family: 'Lato', Helvetica;
+}
